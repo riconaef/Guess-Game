@@ -12,7 +12,9 @@ The game can also be downlaoded and installed as a package with following comman
 
 "pip install guessgame"
 
-The game can then be played in the terminal.
+The game can then be played in the terminal by typing:
+
+"from guessgame import game"
 
 ## File Descriptions <a name="files"></a>
 
